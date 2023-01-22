@@ -21,7 +21,7 @@ Enter csv filename followed by _.csv_ extentsion, then enter the _weights_ vecto
 And using this package in Python as :
 
 ```bash
-import topsispy as tp
+import Topsis_Ira_102017029.topsis as tp
 a =[
      [250, 16, 12, 5],
      [200, 16, 8, 3],
