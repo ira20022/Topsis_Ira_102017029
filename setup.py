@@ -7,8 +7,8 @@ setup(
   description = 'TOPSIS Package',   # Give a short description about your library
   author = 'Ira Vashisht',                   # Type in your name
   author_email = 'iravashisht2002@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/ira20022/Topsis-Ira-102017029',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/ira20022/Topsis-Ira-102017029/archive/refs/tags/0.1.tar.gz',    # I explain this later on
+  url = 'https://github.com/ira20022/Topsis_Ira_102017029',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/ira20022/Topsis_Ira_102017029/archive/refs/tags/0.1.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'MCDM', '102017029'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
